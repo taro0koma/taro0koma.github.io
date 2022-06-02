@@ -34,6 +34,6 @@ In my private life, I enjoy teaching my child Scratch, drawing, and programming 
 - 2015-2018 [株式会社ユニエイム](https://uniaim.co.jp)
 - 2011-2012 [有限会社パックスエイジアン](https://pax-asian.co.jp/)
 - 2009-2011 フリーランス
-- 200６-2009 communit design -SOHO
+- 2006-2009 communit design -SOHO
 - 2003-2005 [株式会社ドアズ](https://doors.co.jp/)
 - 2003 [神戸女学院大学 文学部 英文学科](https://www.kobe-c.ac.jp/) 卒業
