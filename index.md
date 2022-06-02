@@ -1,4 +1,4 @@
-# About
+# ABOUT
 
 I'm studying Programming Education and I used to be a web designer.
 
@@ -9,7 +9,7 @@ After quitting my previous office a few years ago, I studied Java & Android app 
 In my private life, I enjoy　teaching my child Scratch, drawing, and programming languages (with the online programming learning service "Progate" etc).
 
 
-## Profile
+# PROFILE
 - YURI
 - Shizuoka pref, Japan
 - [dribbble](https://dribbble.com/yuriwolf)
